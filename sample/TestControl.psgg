@@ -286,7 +286,7 @@ n016=@@@
 The root
 @@@
 
-n017=627,62
+n017=507,60
 n018=15
 
 [s0034]
@@ -378,7 +378,7 @@ n018=21
 sheet=config
 
 ###VARIOUS-CONTENTS-BEGIN###
-; The setting was created automatically. 2020/07/16 16:08:27
+; The setting was created automatically. 2020/07/16 21:46:37
 ; * pssgEditor version : 0.65.30181.c1f731a61c084a50af056af301b5a2c33505b45f
 psggfile=@@@
 TestControl.psgg
@@ -411,7 +411,7 @@ nodegroup_pos_list=@@@
 [{"Key":"\/","Value":{"x":100,"y":100}}]
 @@@
 fillter_state_location_list=@@@
-[{"Key":"\/","Value":[{"Key":"S_START","Value":{"x":86,"y":195}},{"Key":"S_END","Value":{"x":1474,"y":214}},{"Key":"S_HELLOWORLD","Value":{"x":251,"y":195}},{"Key":"S_RET000","Value":{"x":543,"y":372}},{"Key":"S_Zero","Value":{"x":1052,"y":749}},{"Key":"S_GET_RANDOM","Value":{"x":730,"y":838}},{"Key":"S_HELLOWORLD1","Value":{"x":500,"y":195}},{"Key":"S_SBS001","Value":{"x":417,"y":839}},{"Key":"S_PAS000","Value":{"x":726,"y":321}},{"Key":"S_GSB000","Value":{"x":129,"y":321}},{"Key":"C_0000","Value":{"x":92,"y":62}},{"Key":"S_1st","Value":{"x":1052,"y":831}},{"Key":"S_LOP000","Value":{"x":322,"y":768}},{"Key":"S_RET001","Value":{"x":1325,"y":915}},{"Key":"E_0001","Value":{"x":627,"y":62}},{"Key":"S_RAND_INIT","Value":{"x":86,"y":768}},{"Key":"S_2nd","Value":{"x":1052,"y":930}},{"Key":"S_Others","Value":{"x":1052,"y":1022}},{"Key":"S_SBS000","Value":{"x":252,"y":369}},{"Key":"S_SUBROUTINE","Value":{"x":359,"y":369}},{"Key":"S_START_LOOP","Value":{"x":510,"y":838}}]}]
+[{"Key":"\/","Value":[{"Key":"S_START","Value":{"x":86,"y":195}},{"Key":"S_END","Value":{"x":1474,"y":214}},{"Key":"S_HELLOWORLD","Value":{"x":251,"y":195}},{"Key":"S_RET000","Value":{"x":543,"y":372}},{"Key":"S_Zero","Value":{"x":1052,"y":749}},{"Key":"S_GET_RANDOM","Value":{"x":730,"y":838}},{"Key":"S_HELLOWORLD1","Value":{"x":500,"y":195}},{"Key":"S_SBS001","Value":{"x":417,"y":839}},{"Key":"S_PAS000","Value":{"x":726,"y":321}},{"Key":"S_GSB000","Value":{"x":129,"y":321}},{"Key":"C_0000","Value":{"x":92,"y":62}},{"Key":"S_1st","Value":{"x":1052,"y":831}},{"Key":"S_LOP000","Value":{"x":322,"y":768}},{"Key":"S_RET001","Value":{"x":1325,"y":915}},{"Key":"E_0001","Value":{"x":507,"y":60}},{"Key":"S_RAND_INIT","Value":{"x":86,"y":768}},{"Key":"S_2nd","Value":{"x":1052,"y":930}},{"Key":"S_Others","Value":{"x":1052,"y":1022}},{"Key":"S_SBS000","Value":{"x":252,"y":369}},{"Key":"S_SUBROUTINE","Value":{"x":359,"y":369}},{"Key":"S_START_LOOP","Value":{"x":510,"y":838}}]}]
 @@@
 linecolor_data=@@@
 [{"color":{"knownColor":0,"name":null,"state":2,"value":4285493103},"pattern":"BACKTO_"}]
@@ -609,7 +609,7 @@ template_src=
 template_func=template-statefunc.txt
 
 help=help.ini
-helpweb=starterkit\ruby\helpweb.html
+helpweb=helpweb.html
 
 [setupinfo]
 
