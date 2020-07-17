@@ -11,6 +11,7 @@ Windows10
 
 # Output
 ```
+cd sample
 ruby Test.rb
 ```
 ![](https://github.com/NNNIC/psgg-ruby-sample/raw/master/wiki/exec.png)
