@@ -378,7 +378,7 @@ n018=21
 sheet=config
 
 ###VARIOUS-CONTENTS-BEGIN###
-; The setting was created automatically. 2020/07/16 21:46:37
+; The setting was created automatically. 2020/07/17 22:37:16
 ; * pssgEditor version : 0.65.30181.c1f731a61c084a50af056af301b5a2c33505b45f
 psggfile=@@@
 TestControl.psgg
@@ -774,7 +774,8 @@ en=Call Subroutine
 jpn=サブルーチン呼出し
 [loop_next]
 
-en=ループ用インクリメント
+en=loop increment.
+jpn=ループ用インクリメント
 [state]
 
 jpn=@@@
@@ -856,7 +857,8 @@ System uses this for the directory path of the state.
 
 [loop_init]
 
-en=ループ初期化
+en=Loop initialization
+jpn=ループ初期化
 [thumbnail]
 
 jpn=説明用のイメージを指定する。
@@ -867,6 +869,11 @@ Specify a image for explanation of this state.
 [loop_cond]
 
 en=@@@
+Loop condition. 
+If true then loop.
+@@@
+
+jpn=@@@
 ループ条件
 true時にループする。
 @@@
